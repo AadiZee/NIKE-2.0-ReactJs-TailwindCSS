@@ -1,8 +1,3 @@
-# React + Vite
+A nike landing page created using React JS and Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/AadiZee/NIKE-2.0-ReactJs-TailwindCSS/assets/18194614/6e591327-fc9d-4b58-81ff-3a84214b9d95)
